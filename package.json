@@ -1,0 +1,23 @@
+{
+  "name": "gmapsimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/casperjs/bin/casperjs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaakasem/gmapsimage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaakasem/gmapsimage/issues"
+  },
+  "homepage": "https://github.com/diaakasem/gmapsimage#readme",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  }
+}
